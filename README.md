@@ -1,4 +1,4 @@
-# Listas-IP-2023.1
-Listas em C - Introdução à Programação
+# Lists-Introduction to programming-2023.1
+C language - Introduction to programming
 
-Professor: Allyson Bonetti
+Teacher: Allyson Bonetti
