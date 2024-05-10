@@ -1,3 +1,3 @@
-# Listas - Introdução à Programação - 2023.1
-* Linguagem C
+# Listas de Exercícios - Introdução à Programação
+* Linguagem: C
 * Professor: Allyson Bonetti
