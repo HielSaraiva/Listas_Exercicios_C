@@ -1,3 +1,4 @@
-# Listas de Exercícios - Introdução à Programação
-* Linguagem: C
+# Exercise Lists: 
+* Language: C
+* Subject: Introduction to Programming
 * Professor: Allyson Bonetti
